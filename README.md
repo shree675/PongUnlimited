@@ -10,6 +10,12 @@ PongUnlimited is a simple and a slightly different version of the well-known arc
 ## Database
 The game scores and player names are stored in a MySQL database. The scores are retrieved when DISPLAY SCORES button is called. The game initially creates a database and an appropriate table if not already created, to store the information.
 
+
+<img src="screenshots/Screenshot (123).png", height=100, width=100>
+
+
+
+
 ## Python Libraries Used
 * opencv
 * tkinter
