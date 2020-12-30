@@ -39,7 +39,7 @@ The game scores and player names are stored in a MySQL database. The scores are 
 * random
 
 ## Videos and Screenshots
-Follow this link to view game screenshots and videos: [screenshots and videos](https://github.com/shree675/PongUnlimited/edit/main/screenshot and videos)
+Follow this link to view game screenshots and videos: [screenshots and videos](https://github.com/shree675/PongUnlimited/tree/main/screenshots%20and%20videos)
 
 ## Version
 v2020
