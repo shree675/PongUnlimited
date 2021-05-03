@@ -2,7 +2,11 @@
 
 ## About
 <p>
-PongUnlimited is a simple and a slightly different version of the well-known arcade game Pong. This is a single player game where the opponent is a never-losing computer. This is more like a practice game for the real Pong.</p>
+PongUnlimited is a simple version of the well-known arcade game Pong. This is a single player game where the opponent is a never-losing computer. This is more like a practice game for the real Pong.
+</p>
+<p>
+  This game can be played without touching the mouse or the keyboard. OpenCV has been used to detect green colored pen movements in front of the screen through a webcam. The slider then moves based on the pen movement.
+</p>
 
 <p>
   <img src="screenshots and videos/Screenshot (120).png", height="350", width="350">
